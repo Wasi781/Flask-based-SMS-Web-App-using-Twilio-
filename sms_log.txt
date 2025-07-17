@@ -1,0 +1,14 @@
+
+[31m[49mHTTP Error[0m [37m[49mYour request was:[0m
+
+[36m[49mPOST /Accounts/AC0f9f6c482a44542c085b9f318d8aa416/Messages.json[0m
+
+[37m[49mTwilio returned the following information:[0m
+
+[34m[49mUnable to create record: The number +92315053XXXX is unverified. Trial accounts cannot send messages to unverified numbers; verify +92315053XXXX at twilio.com/user/account/phone-numbers/verified, or purchase a Twilio number to send messages to unverified numbers[0m
+
+[37m[49mMore information may be available here:[0m
+
+[34m[49mhttps://www.twilio.com/docs/errors/21608[0m
+
+
